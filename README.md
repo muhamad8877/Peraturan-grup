@@ -1,3 +1,5 @@
+Code | Issues | Pull requests | Actions | Projects | Wiki | Settings
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
