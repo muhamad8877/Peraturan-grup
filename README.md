@@ -34,7 +34,7 @@
     <li>Gunakan bahasa yang sopan dan tidak menyinggung.</li>
     <li>Hormati semua anggota, tidak boleh menghina atau membully.</li>
     <li>Topik diskusi sesuai dengan tema grup.</li>
-    <li>Laporkan pelanggaran kepada admin.</li>
+    <li>Laporkan pelanggaran kepada admin.</li>logis wajin
   </ul>
 
   <p>Kontak Admin: <a href="mailto:admin@example.com">admin@example.com</a></p>
